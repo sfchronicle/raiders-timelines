@@ -7,7 +7,7 @@ require("./lib/social"); //Do not delete
 
 // photo gallery event listeners
 var gallery0_idx = 0;
-var Ngallery0 = 5;
+var Ngallery0 = offData.length;
 
 // set up clicking to update map interactive on mobile
 document.getElementById("scroll-right-gallery0").addEventListener("click", function() {

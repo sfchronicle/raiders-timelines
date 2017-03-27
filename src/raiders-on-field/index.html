@@ -40,6 +40,10 @@
       <% }); %>
     </div>
 
+    <script>
+      var onData = <%= JSON.stringify(json.on) %>
+    </script>
+
     <script src="../on-app.js" async></script>
     <%= t.include("partials/_helloSFC.html") %>
 

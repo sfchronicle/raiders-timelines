@@ -21,7 +21,7 @@
     <div class="photo-gallery0">
       <div class="scroll-left-gallery0 first" id="scroll-left-gallery0"><i class="fa fa-angle-left" aria-hidden="true"></i></div>
       <div class="scroll-right-gallery0" id="scroll-right-gallery0"><i class="fa fa-angle-right" aria-hidden="true"></i></div>
-      <% json.on.forEach(function(d,idx){ %>
+      <% json.off.forEach(function(d,idx){ %>
         <% if (idx == 0){ %>
           <div class="photo_g0 active" id="photo_g00">
             <img src="<%= d.image_url %>"></img>
@@ -39,6 +39,10 @@
         <% } %>
       <% }); %>
     </div>
+
+    <script>
+      var offData = <%= JSON.stringify(json.off) %>
+    </script>
 
     <script src="../off-app.js" async></script>
     <%= t.include("partials/_helloSFC.html") %>
