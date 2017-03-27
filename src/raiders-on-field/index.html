@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+  <head>
+    <title><%= json.project.seo_title %></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="__sync_contentCategory" content="meterA">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="../style.css">
+    <script src="http://projects.sfchronicle.com/shared/js/jquery.min.js"></script>
+
+    <%= !json.project.embedded ? t.include("partials/_paywall.html") : t.include("partials/_embedframe.html") %>
+
+    <%= t.include("partials/_head.html") %>
+
+  </head>
+
+  <%= !json.project.embedded ? "<body>" : "<body is='responsive-body'>" %>
+
+
+    <div class="photo-gallery0">
+      <div class="scroll-left-gallery0 first" id="scroll-left-gallery0"><i class="fa fa-angle-left" aria-hidden="true"></i></div>
+      <div class="scroll-right-gallery0" id="scroll-right-gallery0"><i class="fa fa-angle-right" aria-hidden="true"></i></div>
+      <% json.on.forEach(function(d,idx){ %>
+        <% if (idx == 0){ %>
+          <div class="photo_g0 active" id="photo_g00">
+            <img src="<%= d.image_url %>"></img>
+            <div class="caption"><%= d.caption %>
+              <span class="credit"><%= d.photographer %>, The Chronicle</span>
+            </div>
+          </div>
+        <% } else { %>
+          <div class="photo_g0" id=photo_g0<%=idx%>>
+            <img src="<%= d.image_url %>"></img>
+            <div class="caption"><%= d.caption %>
+              <span class="credit"><%= d.photographer %>, The Chronicle</span>
+            </div>
+          </div>
+        <% } %>
+      <% }); %>
+    </div>
+
+    <script src="../on-app.js" async></script>
+    <%= t.include("partials/_helloSFC.html") %>
+
+  </body>
+</html>

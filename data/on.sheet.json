@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "image_url": "http://ww1.hdnux.com/photos/60/11/30/12621372/3/1200x0.jpg",
+    "photographer": "Emma",
+    "date": "1960-62 ",
+    "caption": "Raiders struggle in their first three seasons, going 9-33."
+  },
+  {
+    "id": 1,
+    "image_url": "http://ww1.hdnux.com/photos/60/11/30/12620957/3/1200x0.jpg",
+    "photographer": "Lucio",
+    "date": "Jan. 15, 1963",
+    "caption": "Al Davis, 33 years old, is hired as head coach. The team has its first winning record, 10-4."
+  },
+  {
+    "id": 2,
+    "image_url": "http://ww1.hdnux.com/photos/60/11/30/12621826/3/1200x0.jpg",
+    "photographer": "Carlos",
+    "date": "Sept. 18, 1966",
+    "caption": "The Oakland Coliseum opens. A crowd of 50,000 attends a game the Raiders lose 32-10 to the Chiefs."
+  }
+]
