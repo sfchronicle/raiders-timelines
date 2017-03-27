@@ -17,6 +17,9 @@
 
   <%= !json.project.embedded ? "<body>" : "<body is='responsive-body'>" %>
 
+    <div class="hed">Raiders off the field</div>
+    <div class="chatter">This is a deck about how we know all of the interesting things that happened to the Raiders on the field.</div>
+    <div class="author">By Chronicle staff</div>
 
     <div class="photo-gallery0">
       <div class="scroll-left-gallery0 first" id="scroll-left-gallery0"><i class="fa fa-angle-left" aria-hidden="true"></i></div>
@@ -24,19 +27,15 @@
       <% json.off.forEach(function(d,idx){ %>
         <% if (idx == 0){ %>
           <div class="photo_g0 active" id="photo_g00">
-            <img src="<%= d.image_url %>"></img>
-            <div class="caption"><%= d.caption %>
-              <span class="credit"><%= d.photographer %>, The Chronicle</span>
-            </div>
-          </div>
         <% } else { %>
           <div class="photo_g0" id=photo_g0<%=idx%>>
+        <% } %>
             <img src="<%= d.image_url %>"></img>
+            <div class="timeline-date"><%= d.date %></div>
             <div class="caption"><%= d.caption %>
               <span class="credit"><%= d.photographer %>, The Chronicle</span>
             </div>
           </div>
-        <% } %>
       <% }); %>
     </div>
 
