@@ -1,1 +1,137 @@
-[]
+[
+  {
+    "id": 0,
+    "image_url": "RAIDERSTIMELINEXXXX_OFF_1960_2_31308871",
+    "date": "January 1960",
+    "caption": "Oakland is awarded a franchise, replacing Minnesota, in the new AFL."
+  },
+  {
+    "id": 1,
+    "image_url": "RAIDERSTIMELINEXXXX_OFF_1962_31308880",
+    "date": "September 1962",
+    "caption": "After playing their first two seasons in San Francisco, the Raiders finally move into Frank Youell Field, a temporary 20,000-seat stadium near downtown Oakland."
+  },
+  {
+    "id": 2,
+    "image_url": "01_15_1963-01",
+    "date": "April 1966",
+    "caption": "Al Davis is named the second commissioner of the AFL."
+  },
+  {
+    "id": 3,
+    "date": "Jan. 18, 1980",
+    "caption": "Los Angeles Coliseum Commission announces that owner Al Davis, despite pleas from Oakland fans, has agreed to move his Raiders to Los Angeles. NFL owners balked, but Davis sues and wins a landmark case clearing the way for the move."
+  },
+  {
+    "id": 4,
+    "image_url": "la_move",
+    "date": "September 1982",
+    "caption": "The Raiders begin play in the Los Angeles Coliseum."
+  },
+  {
+    "id": 5,
+    "image_url": "Obit Al Davis Football_18183733",
+    "date": "Aug. 20, 1987",
+    "caption": "Davis signs an agreement with Irwindale (Los Angeles County) to move his team there. The deal never happens, but Davis and the Raiders keep Irwindale’s $10 million."
+  },
+  {
+    "id": 6,
+    "date": "May 18, 1989",
+    "caption": "Oakland and Sacramento join list of suitors for Raiders."
+  },
+  {
+    "id": 7,
+    "date": "March 12, 1990",
+    "caption": "Davis conditionally agrees to move Raiders back to Oakland."
+  },
+  {
+    "id": 8,
+    "date": "Sept. 11, 1990",
+    "caption": "Mayor Tom Bradley announces the signing of a deal to keep the Raiders in Los Angeles for an additional 20 years."
+  },
+  {
+    "id": 9,
+    "date": "January 1994",
+    "caption": "Northridge earthquake severely damages the 70-year-old L.A. Coliseum."
+  },
+  {
+    "id": 10,
+    "date": "June 1994",
+    "caption": "The Raiders sign a one-year agreement to continue playing in the L.A. Coliseum."
+  },
+  {
+    "id": 11,
+    "date": "April 1995",
+    "caption": "The NFL approves the Rams’ move to St. Louis."
+  },
+  {
+    "id": 12,
+    "date": "May 1995",
+    "caption": "In an effort to keep the Raiders in L.A., NFL owners approve a package of financial incentives for a proposed Hollywood Park stadium."
+  },
+  {
+    "id": 13,
+    "date": "June 23, 1995",
+    "caption": "Raiders leave Los Angeles, move back to the Oakland, enticed by cheap rent and a major renovation of the Coliseum financed by a $225 million public bond. The money helps pay for the construction of “Mt. Davis,” a large seat structure that taxpayers are still paying for to this day, currently owing a remaining $83 million."
+  },
+  {
+    "id": 14,
+    "date": "Oct. 8, 2011",
+    "caption": "Al Davis dies at the age of 82. His son Mark assumes ownership of the team."
+  },
+  {
+    "id": 15,
+    "date": "January 2013",
+    "caption": "Raiders’ lease with Oakland expires. Team signs the first of several one-year leases."
+  },
+  {
+    "id": 16,
+    "date": "July 18, 2014",
+    "caption": "Mark Davis meets with San Antonio officials and discussed the Raiders possibly moving to the Alamo, Texas."
+  },
+  {
+    "id": 17,
+    "date": "Feb. 20, 2015",
+    "caption": "Raiders and AFC West rival Chargers announce plans for a shared $1.7 billion stadium in Carson, a Los Angeles suburb."
+  },
+  {
+    "id": 18,
+    "date": "January 2016",
+    "caption": "NFL owners approve the return to Los Angeles of the Rams from St. Louis and give the Chargers the option of doing the same, giving them a year to decide, which they agree to do."
+  },
+  {
+    "id": 19,
+    "date": "February 2016",
+    "caption": "Davis meets with casino mogul Sheldon Adelson and discusses the building of a $1 billion domed stadium in Las Vegas."
+  },
+  {
+    "id": 20,
+    "date": "April 28, 2016",
+    "caption": "Appearing before a Nevada legislative committee, Davis says the Raiders are prepared to contribute $500 million toward a Las Vegas stadium."
+  },
+  {
+    "id": 21,
+    "date": "May 23, 2016",
+    "caption": "NFL Hall of Famer Ronnie Lott and former NFL quarterback Rodney Peete emerge as the leaders of a group, backed by Fortress Investment Group, to build a new stadium in Oakland."
+  },
+  {
+    "id": 22,
+    "date": "October 2016",
+    "caption": "Nevada Gov. Brian Sandoval signs a bill to raise $750 million in new hotel guest taxes toward construction of a stadium, now estimated to cost $1.9 billion."
+  },
+  {
+    "id": 23,
+    "date": "Jan. 30, 2017",
+    "caption": "Upset at being left out of the lease negotiations, Adelson withdraws his $650 million in support for the project."
+  },
+  {
+    "id": 24,
+    "date": "March 6, 2017",
+    "caption": "Raiders announce that Bank of America has agreed to replace Adelson in helping finance the project."
+  },
+  {
+    "id": 25,
+    "date": "March 27, 2017",
+    "caption": "NFL owners vote 31-1 in favor of the Raiders’ move to Las Vegas."
+  }
+]

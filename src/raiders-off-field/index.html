@@ -30,12 +30,21 @@
         <% } else { %>
           <div class="photo_g0" id=photo_g0<%=idx%>>
         <% } %>
-            <img src="<%= d.image_url %>"></img>
+
+        <% if (d.image_url ){ %>
+            <img src="../assets/off<%= d.image_url %>.jpg"></img>
             <div class="timeline-date"><%= d.date %></div>
             <div class="caption"><%= d.caption %>
               <span class="credit"><%= d.photographer %>, The Chronicle</span>
             </div>
           </div>
+        <% } else { %>
+            <div class="timeline-date"><%= d.date %></div>
+            <div class="caption"><%= d.caption %></div>
+          </div>
+        <% } %>
+
+
       <% }); %>
     </div>
 

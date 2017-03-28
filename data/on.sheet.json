@@ -1,23 +1,110 @@
 [
   {
     "id": 0,
-    "image_url": "http://ww1.hdnux.com/photos/60/11/30/12621372/3/1200x0.jpg",
-    "photographer": "Emma",
+    "image_url": "text",
     "date": "1960-62 ",
     "caption": "Raiders struggle in their first three seasons, going 9-33."
   },
   {
     "id": 1,
-    "image_url": "http://ww1.hdnux.com/photos/60/11/30/12620957/3/1200x0.jpg",
-    "photographer": "Lucio",
+    "image_url": "01_15_1963-02",
     "date": "Jan. 15, 1963",
     "caption": "Al Davis, 33 years old, is hired as head coach. The team has its first winning record, 10-4."
   },
   {
     "id": 2,
-    "image_url": "http://ww1.hdnux.com/photos/60/11/30/12621826/3/1200x0.jpg",
-    "photographer": "Carlos",
+    "image_url": "09_18_1966-01",
     "date": "Sept. 18, 1966",
     "caption": "The Oakland Coliseum opens. A crowd of 50,000 attends a game the Raiders lose 32-10 to the Chiefs."
+  },
+  {
+    "id": 3,
+    "image_url": "01_14_1968-01",
+    "date": "Jan. 14, 1968",
+    "caption": "Packers beat the Raiders 33-14 in the second AFL-NFL World Championship Game, which would later be renamed Super Bowl II."
+  },
+  {
+    "id": 4,
+    "image_url": "02_4_1969",
+    "date": "Feb. 4, 1969",
+    "caption": "John Madden is named head coach."
+  },
+  {
+    "id": 5,
+    "image_url": "12_23_1972_02",
+    "date": "Dec. 23, 1972",
+    "caption": " “The Immaculate Reception”: Pittsburgh beats the Raiders 13-7 in an AFC playoff game when Franco Harris scores a disputed touchdown on a deflected catch in the final seconds."
+  },
+  {
+    "id": 6,
+    "image_url": "01_09_1977",
+    "date": "Jan. 9, 1977",
+    "caption": "Raiders win their first NFL championship, beating the Vikings 32-14 in Super Bowl XI in the Rose Bowl. The next day, a crowd estimated at 20,000 welcomes the team back to Oakland at the Coliseum."
+  },
+  {
+    "id": 7,
+    "image_url": "text",
+    "date": "Jan. 4, 1979",
+    "caption": "Coach John Madden retires at the age of 42 after going 103-32-7 in 10 years. Former Raiders quarterback Tom Flores is named Madden’s successor."
+  },
+  {
+    "id": 8,
+    "image_url": "01_25_1981-01",
+    "date": "Jan. 25, 1981",
+    "caption": "Raiders win the Super Bowl for the second time in five seasons, beating the Eagles 27-10 at the Superdome in New Orleans."
+  },
+  {
+    "id": 9,
+    "image_url": "text",
+    "date": "Dec. 13, 1981",
+    "caption": "Raiders are beaten 23-6 by the Bears in the next-to-last game of the season. It will be the last regular-season game the team plays in Oakland until 1995."
+  },
+  {
+    "id": 10,
+    "image_url": "text",
+    "date": "Nov. 22, 1982",
+    "caption": "In their first home game after relocating to Los Angeles, the Raiders beat the Chargers 28-24 at the L.A. Coliseum."
+  },
+  {
+    "id": 11,
+    "image_url": "01_22_1984-03",
+    "date": "Jan. 22, 1984",
+    "caption": "Raiders win their third — and last — Super Bowl, overwhelming Washington 38-9 in Tampa, Fla."
+  },
+  {
+    "id": 12,
+    "image_url": "08_26_1989_02",
+    "date": "Aug. 26, 1989",
+    "caption": "The Raiders play a preseason game against the Houston Oilers at the Oakland Coliseum. The fast sellout and wildly enthusiastic crowd fuel speculation that Davis may be considering a return to Oakland."
+  },
+  {
+    "id": 13,
+    "image_url": "09_03_1995-02",
+    "date": "Sept. 3, 1995",
+    "caption": "In their return to Oakland, a crowd of 50,323 watches the Raiders beat the Chargers 17-7. Oakland opened the season 8-2 but lost its last six to finish 8-8 to begin a stretch of five consecutive nonwinning seasons."
+  },
+  {
+    "id": 14,
+    "image_url": "01_26_2003-02",
+    "date": "Jan. 26, 2003",
+    "caption": "Coach Jon Gruden, traded by the Raiders to Tampa Bay for a handful of draft picks the previous offseason, gets the ultimate revenge as his Buccaneers steamroll Oakland 48-21 in Super Bowl XXXVII."
+  },
+  {
+    "id": 15,
+    "image_url": "gruden_2000",
+    "date": "2003-15",
+    "caption": "The Raiders go 13 consecutive seasons without a playoff berth or a winning record. Bill Callahan (the Raiders coach in the Super Bowl loss to the Bucs), Norv Turner, Art Shell, Lane Kiffin, Tom Cable, Hue Jackson, Dennis Allen, Tony Sparano and Jack Del Rio are the head coaches during the team's long stretch in the wilderness."
+  },
+  {
+    "id": 16,
+    "image_url": "text",
+    "date": "Jan. 16, 2015",
+    "caption": "Del Rio, a Hayward native, is named the 19th head coach in franchise history."
+  },
+  {
+    "id": 17,
+    "image_url": "text",
+    "date": 2016,
+    "caption": "Raiders finally get back to the playoffs, parlaying a 12-4 regular season into a playoff berth. But the team’s postseason chances suffer a major setback when quarterback Derek Carr breaks his leg in a Christmas Eve game in Oakland. Two weeks later, the season ends in a 27-14 wild-card loss in Houston."
   }
 ]

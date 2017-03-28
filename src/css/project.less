@@ -1,11 +1,51 @@
 .timeline-date {
   font-size: 30px;
   color: @dark-gray;
-  float: left;
+  text-align:center;
   font-family: @med-graphics;
   padding-right: 10px;
+
+  &.big{
+  font-size:4em;
+  
+	  @media @mobile{
+	  	font-size:2em;
+	  	line-height:1.2;	
+	  }
+  }
 }
 
 .hed {
   font-size: 30px;
+}
+
+.caption{
+	text-align:center;
+	margin-top:0;
+
+	&.big{
+	font-size:1em;
+
+	@media @mobile{
+		font-size:0.7em;
+	}
+	}
+}
+
+.credit{
+	max-width:750px;
+	margin: 0 auto;
+}
+
+.chatter{
+	max-width:750px;
+	margin:0 auto;
+}
+
+.author{
+	margin-top:0;
+}
+
+.photo-gallery0, .photo-gallery1, .photo-gallery2, .photo-gallery3, .photo-gallery4, .photo-gallery5 {
+max-width:800px;
 }
